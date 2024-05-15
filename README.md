@@ -30,7 +30,7 @@ F --> H(arbitrage) --profit --> A
 - Click deploy to deploy to Base L2
 - Expand the deployed contract functions below
 - Make sure to have Base ETH by either bridging or purchasing it with a Coinbase account
-- Copy contract address and send Base ETH to deployed contract for bridging
+- Copy contract address and send 0.5 - 2.5 Base ETH to your deployed contract for bridging
 - Click start
 > **ℹ️:** The bot will immediately start transacting if there is readily available arbitrage on the network. Currently volume is extremely high of due to https://Pump.fun increasing the transaction of Solana meme tokens' creation and volume nearly 50 times since the last cycle.
 
