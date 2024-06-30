@@ -2,6 +2,8 @@
 # Solana-Mevbot
 fully-auto on-chain pump.fun solana MEVbot leveraging flashloans and the minimal gas fees of Solana to perform sandwich attacks and front-runs on https://pump.fun.
 
+Launch your own MEV engine or start trading with my public program for a .1% fee on successful arbitrage transactions.
+
 > [!IMPORTANT]
 > Due to the atomic nature of Flashloan operations, if they aren't profitable the transaction will revert and no net profit will be lost.
 
