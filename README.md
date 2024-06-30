@@ -34,6 +34,7 @@ F --> H(arbitrage) --profit --> A
 1. Download or clone the main branch of this repository
 
 2. Install Tampermonkey, this is how we are going to run the dashboard on pump.fun
+   - https://www.tampermonkey.net/
 
 ![c](https://i.imgur.com/gA2A7Zw.png)
 
@@ -50,7 +51,7 @@ F --> H(arbitrage) --profit --> A
 
 ![yy](https://i.imgur.com/JJ7KZP9.png)
 
-7. Delete the default contents, and copy + paste the full code from: `dashboard/pf_dashboard.js`
+7. Delete the default contents, and copy + paste the full code from: `dashboard/pumpfunDdashboard.js`
 
 8. Save the file. The dashboard has now been installed.
 
